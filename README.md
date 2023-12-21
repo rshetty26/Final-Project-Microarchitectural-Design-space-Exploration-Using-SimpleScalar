@@ -1,4 +1,4 @@
-**CMPEN 431 Design Space Exploration Final Report**
+<h1>CMPEN 431 Design Space Exploration Final Report</h1>
 
 **Overview:**
 
